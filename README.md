@@ -126,7 +126,7 @@ https://github.com/sdrapkin/SecurityDriven.Inferno <br>
 
 # License
 
-Copyright © ∞ Jason Drawdy (CloneMerge)
+Copyright © ∞ Jason Drawdy 
 
 All rights reserved.
 
